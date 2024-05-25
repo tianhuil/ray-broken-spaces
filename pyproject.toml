@@ -10,6 +10,7 @@ readme = "README.md"
 python = "~3.11"
 gymnasium = "~0.28"
 ray = { extras = ["rllib"], version = "^2.23.0" }
+torch = "^2.2.1"
 
 
 [build-system]
